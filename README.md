@@ -82,22 +82,3 @@ integral-calculator/
 1. Insira os limites de integração no formulário da interface.
 2. Escolha uma das funções disponíveis (\(x^2\) ou \(\sin(x)\)).
 3. Clique em "Calcular" para visualizar o resultado numérico e o gráfico.
-
----
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Siga os passos abaixo para colaborar:
-
-1. Faça um fork do repositório.
-2. Crie uma branch com a nova funcionalidade ou correção: `git checkout -b minha-branch`.
-3. Envie suas alterações: `git push origin minha-branch`.
-4. Abra um Pull Request.
-
----
-
-## 📝 Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
----
